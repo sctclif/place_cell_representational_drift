@@ -1,2 +1,9 @@
 numpy
 matplotlib
+scipy
+pandas
+seaborn
+tqdm
+pandas
+
+pip install numpy matplotlib scipy seaborn tqdm pandas 

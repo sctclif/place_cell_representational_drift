@@ -1,0 +1,11 @@
+axes.labelpad : 10
+
+text.color : (0.2,0.2,0.2)
+
+axes.spines.top: False
+axes.spines.right: False
+
+axes.xmargin : 0
+axes.ymargin : 0
+
+svg.fonttype: none
