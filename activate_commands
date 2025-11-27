@@ -1,4 +1,4 @@
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\.venv\Scripts\Activate.ps1
 
-pip install numpy matplotlib scipy seaborn tqdm pandas 
+pip install numpy matplotlib scipy seaborn tqdm pandas
